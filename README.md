@@ -12,6 +12,7 @@ A Software Developer with over 2 years of experience. I code and develop web and
 * 🚀  I'm currently working on [Blockchain Tutorials](http://github.com/akshitone/cryptochain)
 * 🧠  I'm learning Blockchain, Web3.0, NodeJS, Python, Refactoring code
 * 🤝  I'm open to collaborating on Backend / Blockchain projects
+* ⚡  I'm good at googling
 
 ### Skills
 
