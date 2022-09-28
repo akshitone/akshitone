@@ -9,7 +9,7 @@ A Software Developer with over 2 years of experience. I code and develop web and
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://akshitmithaiwala.github.io/)
 * ✉️  You can contact me at [akshitone8@gmail.com](mailto:akshitone8@gmail.com)
-* 🚀  I'm currently working on [Blockchain Tutorials](http://github.com/akshitone/cryptochain)
+* 🚀  I'm currently working on [Blockchain](http://github.com/akshitone/cryptochain)
 * 🧠  I'm learning Blockchain, Web3.0, NodeJS, Python, Refactoring code
 * 🤝  I'm open to collaborating on Backend / Blockchain projects
 * ⚡  I'm good at googling
