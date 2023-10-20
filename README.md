@@ -4,7 +4,7 @@ Hi 👋 My name is Akshit Mithaiwala
 Software Developer
 ------------------
 
-A Software Developer with over 2 years of experience. I code and develop web and micro-services for amazing people around the world. I like working with new people. New people are new experiences. Demonstrated excellent skills in Python, JavaScript, SQL, and more.
+A Software Developer with over 3 years of experience. I code and develop web and micro-services for amazing people around the world. I like working with new people. New people are new experiences. Demonstrated excellent skills in Python, JavaScript, SQL, and more.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://akshitmithaiwala.github.io/)
